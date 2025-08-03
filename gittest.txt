@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Hello"
+echo "Welcome to the git hub testing"
+echo "Thankyou"
